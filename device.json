@@ -1,0 +1,7 @@
+{
+        "org" : "urorg",
+        "id" : "urID",
+        "type" : "urdevtype",
+        "auth-method" : "token",
+        "auth-token" : "urauthtoken"
+}
